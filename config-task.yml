@@ -21,11 +21,11 @@ description: "Demonstrates how to make a simple web crawler using Puppeteer."
 
 ## Repository URL ##
 # Must be public for whitelisted tasks.
-repositoryUrl: "https://github.com/koii-network/task-template"
+repositoryUrl: "https://github.com/labrocadabro/simple-crawler"
 
 ## Image URL ##
 # 230x86 pixels.
-imageUrl: "imageUrl"
+imageUrl: "https://bafybeidzhth77azohk5vxojhm2cgpncg67doxgaqlpa5sqmr5nkpxwzvgq.ipfs.w3s.link/ezsandbox.png"
 
 ## Info URL ##
 infoUrl: "infoUrl"
