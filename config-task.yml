@@ -5,7 +5,7 @@
 
 ## Task Name ##
 # Maximum 24 characters.
-task_name: "Task Name"
+task_name: "EZSandbox Simple Crawler"
 
 ## Task Author ##
 author: "Koii"
@@ -17,7 +17,7 @@ markdownDescriptionPath: "./TaskDescription.md"
 
 ## Task Description ##
 # Ignored if you specify a markdown file.
-description: "Task description."
+description: "Demonstrates how to make a simple web crawler using Puppeteer."
 
 ## Repository URL ##
 # Must be public for whitelisted tasks.
@@ -100,8 +100,8 @@ requirementsTags:
   - type: STORAGE
     value: "5 GB"
   - type: TASK_VARIABLE
-    value: "TEST_VARIABLE"
-    description: "An example to demonstrate the use of task variables."
+    value: "SEARCH_TERM"
+    description: "The search term you want to use for the crawler"
 
 ## Tags ##
 # See https://www.koii.network/docs/develop/command-line-tool/create-task-cli/create-task#tags for available tag options.
